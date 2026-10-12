@@ -29,4 +29,3 @@ Config.Target = {
         { bone = 'door_pside_r', seat = 2,  label = 'Enter Rear Right Seat', icon = 'fas fa-chair' },
     },
 }
-x
