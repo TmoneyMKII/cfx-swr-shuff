@@ -11,6 +11,7 @@ shared_scripts {
 
 client_scripts {
     'client/client.lua',
+    'client/target.lua',
 }
 
 lua54 'yes'
